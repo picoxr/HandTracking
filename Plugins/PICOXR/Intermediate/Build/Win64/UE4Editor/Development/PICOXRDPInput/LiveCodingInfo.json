@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PICOXRDPInput.cpp.obj": [
+			"PXR_DPInput.cpp.obj",
+			"PXR_DPInputModule.cpp.obj",
+			"PXR_DPInputState.cpp.obj"
+		]
+	}
+}

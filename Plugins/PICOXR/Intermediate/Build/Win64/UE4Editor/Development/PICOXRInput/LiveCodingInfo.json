@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PICOXRInput.cpp.obj": [
+			"PXR_HandComponent.cpp.obj",
+			"PXR_Input.cpp.obj",
+			"PXR_InputFunctionLibrary.cpp.obj",
+			"PXR_InputModule.cpp.obj",
+			"PXR_InputState.cpp.obj"
+		],
+		"Module.PICOXRInput.gen.cpp.obj": [
+			"PICOXRInput.init.gen.cpp.obj",
+			"PXR_HandComponent.gen.cpp.obj",
+			"PXR_InputFunctionLibrary.gen.cpp.obj"
+		]
+	}
+}

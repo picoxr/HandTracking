@@ -1,0 +1,100 @@
+/MANIFEST:EMBED
+/MANIFESTINPUT:"C:\Program Files\Epic Games\UE_4.27\Engine\Build\Windows\Resources\Default-Win64.manifest"
+/NOLOGO
+/DEBUG
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/FIXED:No
+/NXCOMPAT
+/STACK:12000000
+/DELAY:UNLOAD
+/DLL
+/PDBALTPATH:%_PDB%
+/OPT:NOREF
+/OPT:NOICF
+/INCREMENTAL:NO
+/ignore:4199
+/ignore:4099
+/DELAYLOAD:"pxr_turtledove.dll"
+/DELAYLOAD:"d3d12.dll"
+/DELAYLOAD:"DBGHELP.DLL"
+/DELAYLOAD:"GFSDK_Aftermath_Lib.x64.dll"
+/DELAYLOAD:"openvr_api.dll"
+/LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\ucrt\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64"
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+/FUNCTIONPADMIN
+"C:\UE4\HandTracking\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\UE4\HandTracking\Plugins\PICOXR\Intermediate\Build\Win64\UE4Editor\Development\PICOXRDPHMD\Module.PICOXRDPHMD.cpp.obj"
+"C:\UE4\HandTracking\Plugins\PICOXR\Intermediate\Build\Win64\UE4Editor\Development\PICOXRDPHMD\Default.rc2.res"
+"C:\UE4\HandTracking\Plugins\PICOXR\Libs\Win64\pxr_turtledove.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\NVIDIA\NVaftermath\lib\x64\GFSDK_Aftermath_Lib.x64.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Windows\DirectX\Lib\x64\dxgi.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Windows\DirectX\Lib\x64\d3d9.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Windows\DirectX\Lib\x64\d3d11.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Windows\DirectX\Lib\x64\dxguid.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Windows\DirectX\Lib\x64\d3dcompiler.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Windows\DirectX\Lib\x64\d3dx11.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Windows\DirectX\Lib\x64\dinput8.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Windows\DirectX\Lib\x64\X3DAudio.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Windows\DirectX\Lib\x64\xapobase.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Windows\DirectX\Lib\x64\XAPOFX.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Windows\DirectX\Lib\x64\d3d12.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\OpenVR\OpenVRv1_5_17\lib\win64\openvr_api.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Intel\MetricsDiscovery\MetricsDiscoveryHelper\build\lib\x64-md-release\metrics_discovery_helper.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\RHI\UE4Editor-RHI.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\RenderCore\UE4Editor-RenderCore.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Renderer\UE4Editor-Renderer.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\InputCore\UE4Editor-InputCore.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\InputDevice\UE4Editor-InputDevice.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\HeadMountedDisplay\UE4Editor-HeadMountedDisplay.lib"
+"C:\UE4\HandTracking\Plugins\PICOXR\Intermediate\Build\Win64\UE4Editor\Development\PICOXRHMD\UE4Editor-PICOXRHMD.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Slate\UE4Editor-Slate.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\SlateCore\UE4Editor-SlateCore.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\ProceduralMeshComponent\Intermediate\Build\Win64\UE4Editor\Development\ProceduralMeshComponent\UE4Editor-ProceduralMeshComponent.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\UE4Editor-UnrealEd.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\D3D11RHI\UE4Editor-D3D11RHI.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\D3D12RHI\UE4Editor-D3D12RHI.lib"
+"delayimp.lib"
+"wininet.lib"
+"rpcrt4.lib"
+"ws2_32.lib"
+"dbghelp.lib"
+"comctl32.lib"
+"Winmm.lib"
+"kernel32.lib"
+"user32.lib"
+"gdi32.lib"
+"winspool.lib"
+"comdlg32.lib"
+"advapi32.lib"
+"shell32.lib"
+"ole32.lib"
+"oleaut32.lib"
+"uuid.lib"
+"odbc32.lib"
+"odbccp32.lib"
+"netapi32.lib"
+"iphlpapi.lib"
+"setupapi.lib"
+"dwmapi.lib"
+"imm32.lib"
+/OUT:"C:\UE4\HandTracking\Plugins\PICOXR\Binaries\Win64\UE4Editor-PICOXRDPHMD.dll"
+/IMPLIB:"C:\UE4\HandTracking\Plugins\PICOXR\Intermediate\Build\Win64\UE4Editor\Development\PICOXRDPHMD\UE4Editor-PICOXRDPHMD.suppressed.lib"
+/PDB:"C:\UE4\HandTracking\Plugins\PICOXR\Binaries\Win64\UE4Editor-PICOXRDPHMD.pdb"
+/ignore:4078

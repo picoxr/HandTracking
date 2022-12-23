@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PICOXRHMD.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UE4\HandTracking\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\UE4\HandTracking\Plugins\PICOXR\Intermediate\Build\Win64\UE4Editor\Development\PICOXRHMD\Module.PICOXRHMD.cpp.obj"
+"C:\UE4\HandTracking\Plugins\PICOXR\Intermediate\Build\Win64\UE4Editor\Development\PICOXRHMD\Module.PICOXRHMD.gen.1_of_2.cpp.obj"
+"C:\UE4\HandTracking\Plugins\PICOXR\Intermediate\Build\Win64\UE4Editor\Development\PICOXRHMD\Module.PICOXRHMD.gen.2_of_2.cpp.obj"
+"C:\UE4\HandTracking\Plugins\PICOXR\Intermediate\Build\Win64\UE4Editor\Development\PICOXRHMD\Default.rc2.res"
+/OUT:"C:\UE4\HandTracking\Plugins\PICOXR\Intermediate\Build\Win64\UE4Editor\Development\PICOXRHMD\UE4Editor-PICOXRHMD.lib"

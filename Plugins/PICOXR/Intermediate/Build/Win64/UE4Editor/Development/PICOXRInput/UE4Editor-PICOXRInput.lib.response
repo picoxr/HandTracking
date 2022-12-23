@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PICOXRInput.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UE4\HandTracking\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\UE4\HandTracking\Plugins\PICOXR\Intermediate\Build\Win64\UE4Editor\Development\PICOXRInput\Module.PICOXRInput.cpp.obj"
+"C:\UE4\HandTracking\Plugins\PICOXR\Intermediate\Build\Win64\UE4Editor\Development\PICOXRInput\Module.PICOXRInput.gen.cpp.obj"
+"C:\UE4\HandTracking\Plugins\PICOXR\Intermediate\Build\Win64\UE4Editor\Development\PICOXRInput\Default.rc2.res"
+/OUT:"C:\UE4\HandTracking\Plugins\PICOXR\Intermediate\Build\Win64\UE4Editor\Development\PICOXRInput\UE4Editor-PICOXRInput.lib"

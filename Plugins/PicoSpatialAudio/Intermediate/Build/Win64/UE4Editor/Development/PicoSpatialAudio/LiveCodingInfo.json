@@ -1,0 +1,30 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PicoSpatialAudio.cpp.obj": [
+			"PicoAmbisonicsRenderer.cpp.obj",
+			"PicoAmbisonicsSettings.cpp.obj",
+			"PxrAudioSpatializerApiNative.cpp.obj",
+			"PicoSpatialAudioModule.cpp.obj",
+			"PicoSpatialAudioSceneGeometryComponent.cpp.obj",
+			"PicoSpatialAudioSceneMaterialSettings.cpp.obj",
+			"PicoSpatialAudioSettings.cpp.obj",
+			"PicoSpatializationSourceSettings.cpp.obj",
+			"PxrAudioSpatializerCommonUtils.cpp.obj",
+			"PxrAudioSpatializerContextSingleton.cpp.obj",
+			"PxrAudioSpatializerListener.cpp.obj",
+			"PxrAudioSpatializerReverb.cpp.obj",
+			"PxrAudioSpatializerSpatialization.cpp.obj"
+		],
+		"Module.PicoSpatialAudio.gen.cpp.obj": [
+			"PicoAmbisonicsSettings.gen.cpp.obj",
+			"PicoSpatialAudio.init.gen.cpp.obj",
+			"PicoSpatialAudioEnums.gen.cpp.obj",
+			"PicoSpatialAudioSceneGeometryComponent.gen.cpp.obj",
+			"PicoSpatialAudioSceneMaterialSettings.gen.cpp.obj",
+			"PicoSpatialAudioSettings.gen.cpp.obj",
+			"PicoSpatializationSourceSettings.gen.cpp.obj",
+			"PxrAudioSpatializerReverb.gen.cpp.obj"
+		]
+	}
+}

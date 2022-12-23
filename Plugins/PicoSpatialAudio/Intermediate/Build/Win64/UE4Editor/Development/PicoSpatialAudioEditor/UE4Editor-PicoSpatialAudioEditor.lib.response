@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PicoSpatialAudioEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UE4\HandTracking\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\UE4\HandTracking\Plugins\PicoSpatialAudio\Intermediate\Build\Win64\UE4Editor\Development\PicoSpatialAudioEditor\Module.PicoSpatialAudioEditor.cpp.obj"
+"C:\UE4\HandTracking\Plugins\PicoSpatialAudio\Intermediate\Build\Win64\UE4Editor\Development\PicoSpatialAudioEditor\Module.PicoSpatialAudioEditor.gen.cpp.obj"
+"C:\UE4\HandTracking\Plugins\PicoSpatialAudio\Intermediate\Build\Win64\UE4Editor\Development\PicoSpatialAudioEditor\Default.rc2.res"
+/OUT:"C:\UE4\HandTracking\Plugins\PicoSpatialAudio\Intermediate\Build\Win64\UE4Editor\Development\PicoSpatialAudioEditor\UE4Editor-PicoSpatialAudioEditor.lib"

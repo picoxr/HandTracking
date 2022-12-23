@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PicoSpatialAudioEditor.cpp.obj": [
+			"PicoSpatialAudioEditorModule.cpp.obj",
+			"PicoSpatialAudioSceneMaterialSettingsFactory.cpp.obj",
+			"PicoSpatializationSourceSettingsFactory.cpp.obj"
+		],
+		"Module.PicoSpatialAudioEditor.gen.cpp.obj": [
+			"PicoSpatialAudioEditor.init.gen.cpp.obj",
+			"PicoSpatialAudioSceneMaterialSettingsFactory.gen.cpp.obj",
+			"PicoSpatializationSourceSettingsFactory.gen.cpp.obj"
+		]
+	}
+}
