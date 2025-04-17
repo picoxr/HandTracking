@@ -1,14 +1,37 @@
-# HandTracking
+# PICO Unreal Hand Tracking Sample 
 
 - If you have any questions/comments, please visit [**Pico Developer Support Portal**](https://picodevsupport.freshdesk.com/support/home) and raise your question there.
 
-## Unreal Engine 4 & SDK Version
-- Unreal Engine : 4.27.2
+- This sample does not include the Pico Unreal Integration SDK 3.1.0 plugin; please download it from [**Pico Unreal Integration SDK 3.1.0 plugin**](https://developer.picoxr.com/zh/resources/).
 
-- Pico Unreal Integration SDK v2.1.2
+## Unreal Engine 5 & SDK Version
+- Unreal Engine : 5.3.2
+
+- Pico Unreal Integration SDK v3.1.0
+
 
 ## Description:
-- HandTracking: PICO4 provides a feature that allows users to input with their hands instead of controllers. 
-Pressing your thumb on your index finger can trigger an event. 
+  The sample implements functions as below:
+* Pinch gesture recognition and object pinching
+* Thumbs-up gesture recognition and level switch
+* Palm detection timer
+* Button poke interaction
+* Clickable UI generation
+
+
+|Sample Scene|Pinching Object|
+|:-:|:-:|
+| <img src="./ReadMeScreenshot/1-1.jpg" width="300"> | <img src="./ReadMeScreenshot/1-2.jpg" width="300"> |
+
+|Left hand gesture detection|Poke Interaction|
+|:-:|:-:|
+| <img src="./ReadMeScreenshot/1-3.gif" width="300"> | <img src="./ReadMeScreenshot/1-4.gif" width="300"> 
+
+|Switch level hand gesture|UI Interaction|
+|:-:|:-:|
+| <img src="./ReadMeScreenshot/1-5.jpg" width="300"> | <img src="./ReadMeScreenshot/1-6.jpg" width="300"> |
+
+
+
 ## Note:
-- This project integrates v4.27 of Pico Unreal Integration SDK v2.1.2, If you are using other version of the engine, you need to download the corresponding version of Pico Unreal Integration SDK at [here.](https://developer-global.pico-interactive.com/sdk?deviceId=1&platformId=2&itemId=13)
+- This project integrates Pico Unreal Integration SDK 3.1.0 plugin for UE 5.3. If you are using other version Unreal engine, you will need to integrate the corresponding UE version plugin at [here.](https://developer.picoxr.com/zh/resources/#sdk)
